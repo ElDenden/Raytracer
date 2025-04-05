@@ -1,0 +1,14 @@
+*.bz2
+*.csv
+*.gz
+*.o
+*.pem
+*.pyc
+*.swp
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+!*.placeholder
+bugs/
+tmp/
